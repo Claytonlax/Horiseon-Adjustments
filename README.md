@@ -4,4 +4,4 @@ This is a website for Horiseon, the Social Solution Service. Within you will fin
 
 module 1.PNG
 
-(<https://claytonlax.github.io/Module-1-Challenge/index.html>)
+https://claytonlax.github.io/Horiseon-Adjustments/index.html
